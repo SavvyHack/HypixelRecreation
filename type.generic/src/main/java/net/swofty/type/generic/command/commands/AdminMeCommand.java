@@ -26,8 +26,7 @@ public class AdminMeCommand extends HypixelCommand {
             "Swofty",
             "Foodzz",
             "Hamza_dev",
-            "ItzKatze",
-            "tavip"
+            "ItzKatze"
     );
 
     @Override
